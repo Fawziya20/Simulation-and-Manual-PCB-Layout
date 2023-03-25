@@ -9,11 +9,11 @@ Design a circuit of your choice in any simulation software. Upon successful simu
 ### EQUIPMENTS REQUIRED
 Proteus 8 Professional
 
-### STEPS
+## STEPS
 ->Choose the desired components for your design.
-->Place all components and make the necessary connections./n
-->After making all the connections, click the run button to start the simulation.\n
-->Finally, manually draw the PCB layout for the circuit.\n
+->Place all components and make the necessary connections.
+->After making all the connections, click the run button to start the simulation.
+->Finally, manually draw the PCB layout for the circuit.
 
 
 ### CIRCUIT DIAGRAM
