@@ -10,8 +10,8 @@ Design a circuit of your choice in any simulation software. Upon successful simu
 Proteus 8 Professional
 
 ### STEPS
-->Choose the desired components for your design./n
-->Place all components and make the necessary connections.\n
+->Choose the desired components for your design.
+->Place all components and make the necessary connections./n
 ->After making all the connections, click the run button to start the simulation.\n
 ->Finally, manually draw the PCB layout for the circuit.\n
 
