@@ -11,7 +11,7 @@ Proteus 8 Professional
 
 ## STEPS
 ->Choose the desired components for your design.
-->Place all components and make the necessary connections.
+\n->Place all components and make the necessary connections.
 ->After making all the connections, click the run button to start the simulation.
 ->Finally, manually draw the PCB layout for the circuit.
 
